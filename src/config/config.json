@@ -1,0 +1,20 @@
+{
+    "mistakeRate": 50,
+    "channels": [
+        {
+            "id": "",
+            "guild": {
+                "id": ""
+            },
+            "text": "",
+            "mistakes": ["",""],
+            "time": {
+                "min": 6,
+                "max": 15               
+            },
+            "role": {
+                "id": ""
+            }
+        }
+    ]
+}

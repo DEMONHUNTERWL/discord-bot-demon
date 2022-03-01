@@ -1,0 +1,15 @@
+{
+  "name": "spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "dotenv": "^16.0.0"
+  }
+}
