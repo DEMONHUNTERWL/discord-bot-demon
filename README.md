@@ -20,6 +20,7 @@ ClientId-hoz pedig a felhasználó fiókod ID-ját. Ehhez szükséges bekapcsoln
 Az időt percben add meg, minimum és maximum távlatban, e két érték között fog random választani a bot.
 ```json
 {
+    "mistakeRate": 50,
     "channels": [
         {
             "id": "Ide kerül a channel ID-ja, ahova írni szeretnél",
