@@ -66,7 +66,7 @@ Mellékeltem egy start.bat fájlt, amivel indítani lehet a botot. Ez az egyszer
 #### [CLI]
 CMD-ből is indítható, akkor navigálj a bot mappájába, majd írd be a következő parancsot: 
 ```bat 
-node ./src/app.js 
+npm run start
 ```
 
 Ha ezzel készen vagy, akkor ezt fogja neked kiírni a bot, 20-30 másodperc elteltével: 
